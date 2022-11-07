@@ -1,2 +1,2 @@
 # tokenarticles
-Files containing tokenization of our articles for the project of Digital text in the humanities, prof: T. Mancinelli
+Files containing tokenization of articles selected for the project of Digital text in the humanities, prof: T. Mancinelli
